@@ -13,6 +13,6 @@ j_data = response.json()
 
 # print(type(j_data))  # получили список
 
-for el in j_data:  # перебираем словари в списке и выводим значения по ключу 'name'
+for el in j_data:  # перебираем словари в списке, выводим значения по ключу 'name'
     print(el['name'])
 
