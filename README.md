@@ -3,7 +3,7 @@
 В рамках курса "Сбор и обработка данных" реализовала:
 
 <a href="https://github.com/ElizaPolkovnikova/Data_Collection_Course/blob/master/lesson_1/lesson_1.py" target="_blank">lesson_01</a>
-- Python requests
+- С использованием Python requests вывела список репозиториев пользователя с GitHub
 
 <a href="https://github.com/ElizaPolkovnikova/Data_Collection_Course/blob/master/lesson_02/lesson_02.py" target="_blank">lesson_02</a>
 - парсинг вакансий с hh.ru с помощью BeautifulSoup
